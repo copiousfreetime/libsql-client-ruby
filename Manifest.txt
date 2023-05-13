@@ -1,1 +1,11 @@
-
+CONTRIBUTING.md
+HISTORY.md
+LICENSE
+Manifest.txt
+README.md
+Rakefile
+lib/libsql_client.rb
+tasks/default.rake
+tasks/this.rb
+test/test_helper.rb
+test/test_version.rb
